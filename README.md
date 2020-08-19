@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I’m currently working on Nothing.
-- 🌱 I’m currently learning Node JS and MongoDB.
+- 🌱 I’m currently learning Node JS and Flutter.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/VarshithRajBasa?view_as=subscriber).
-- 💬 Ask me about Angular or any tech related stuff.
+- 💬 Ask me about How I started to code.
 - 📫 How to reach me: [Twitter - @raj_basa](https://twitter.com/raj_basa) , [Instagram - @varshithraj.basa](https://www.instagram.com/varshithraj.basa/?hl=en)
 - 😄 Pronouns: I, you, he, she, it, they, this.
 - ⚡ Fun fact: I spend almost 12 hours working everyday.
